@@ -7,20 +7,18 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COMP229_F2016_MidTerm_StudentID
-{
-
-
-    public partial class Default
-    {
-
+namespace COMP229_F2016_MidTerm_300702645 {
+    
+    
+    public partial class Default {
+        
         /// <summary>
-        /// Jumbotron1 control.
+        /// content control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::COMP229_F2016_MidTerm_StudentID.User_Controls.Jumbotron Jumbotron1;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl content;
     }
 }

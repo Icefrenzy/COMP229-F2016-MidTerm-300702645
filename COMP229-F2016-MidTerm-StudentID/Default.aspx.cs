@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace COMP229_F2016_MidTerm_StudentID
+namespace COMP229_F2016_MidTerm_300702645
 {
     public partial class Default : System.Web.UI.Page
     {

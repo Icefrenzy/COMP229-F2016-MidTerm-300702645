@@ -7,11 +7,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COMP229_F2016_MidTerm_StudentID
-{
-
-
-    public partial class TodoDetails
-    {
+namespace COMP229_F2016_MidTerm_300702645 {
+    
+    
+    public partial class TodoDetails {
     }
 }
