@@ -49,7 +49,7 @@
         <!-- Footer -->
         <footer class="footer navbar navbar-fixed-bottom bg-info">
             <div class="container">
-                <p class="text-muted">&copy; 2016 ASP.NET Web Forms Todo List</p>
+                <p class="text-muted">&copy; 2016 ASP.NET Web Forms Todo List by Jan Kevin Munar, ID: 300702645</p>
             </div>
         </footer>
     </form>
